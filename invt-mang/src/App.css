@@ -2,7 +2,7 @@
 #root {
   max-width: 900px;
   margin: 0 auto;
-  margin-top: 50px;
+  margin-top: 40px;
   padding: 2rem;
   text-align: center;
   font-family: Arial, sans-serif;
@@ -46,7 +46,7 @@
 }
 
 .main-content {
-  margin-left: 220px;
+  margin-left: 200px;
   flex-grow: 1;
   display: flex;
   justify-content: center;
